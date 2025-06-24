@@ -43,6 +43,7 @@
    - Create a new project.
    - Enable **Authentication** → **Email/Password**.
    - In your project settings, get your Firebase config and replace it in the script:
+     
    ```const firebaseConfig = {
         apiKey: "AIzaSyA3I-rham3JmOeM2ByfZqDNOY1ap81TbcI",
         authDomain: "users-12cc2.firebaseapp.com",
