@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Responsive Design** — Works great on mobile, tablet, and desktop
 - **Authentication** — Secure Sign Up & Login using Firebase Auth
@@ -12,14 +12,14 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Frontend:** HTML5, CSS3, Bootstrap 5, JavaScript
 - **Animations:** LottieFiles
 - **Backend:** Firebase Authentication, Firestore
 
 ---
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 1. **Clone this repository:**
 
@@ -51,4 +51,4 @@
         messagingSenderId: "844212290093",
         appId: "1:844212290093:web:2575fe7121605bc3c4aea4",
         measurementId: "G-Y7E4Y31J32"
-     ```};
+     };```
