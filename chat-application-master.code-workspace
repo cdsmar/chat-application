@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../Downloads/chat-application-master"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
